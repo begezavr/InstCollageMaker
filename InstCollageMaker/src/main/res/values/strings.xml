@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstCollageMaker</string>
+    <string name="get_collage">Давай коллаж!</string>
+    <string name="input_username">Имя пользователя Instagramm</string>
+
+</resources>
