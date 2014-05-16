@@ -29,10 +29,10 @@ Thumbs.db
 .idea/
 .gradle
 gradle/
-/*/local.properties
-/*/out
-/*/*/build
-/*/*/production
+**/local.properties
+**/out
+**/build
+**/production
 *.iml
 *.iws
 *.ipr

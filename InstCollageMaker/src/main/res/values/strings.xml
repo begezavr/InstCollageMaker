@@ -2,7 +2,15 @@
 <resources>
 
     <string name="app_name">InstCollageMaker</string>
+    <string name="preview_photos_activity_label">Выберите фотографии для коллажа</string>
     <string name="get_collage">Давай коллаж!</string>
-    <string name="input_username">Имя пользователя Instagramm</string>
+    <string name="input_username">Имя пользователя Instagram</string>
+    <string name="insta_service_name">Данные InstCollageMaker</string>
+    <string name="tap_photo_to_replace">Тапните на фотографию, чтобы заменить</string>
+    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="send_collage_to_email">Отправить коллаж на почту</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="error_msg_user_not_found">Пользователь не найден</string>
+    <string name="user_has_no_photos">Пользователь не опубликовал ни одной фотографии</string>
 
 </resources>

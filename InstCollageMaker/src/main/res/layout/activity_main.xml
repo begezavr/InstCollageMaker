@@ -14,17 +14,16 @@
         android:layout_centerHorizontal="true"
         >
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/editInstagramUsername"
             android:inputType="textPersonName"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:hint="@string/input_username"
-
             />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buttonGetCollage"
             android:layout_width="wrap_content"
             android:layout_height="fill_parent"
             android:layout_gravity="center"
