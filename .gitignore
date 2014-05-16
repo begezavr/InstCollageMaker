@@ -1,20 +1,3 @@
-#built application files
-*.apk
-*.ap_
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
 # Windows thumbnail db
 Thumbs.db
 
@@ -25,16 +8,44 @@ Thumbs.db
 .classpath
 .project
 
+# Proguard folder 
+proguard/
+
 # Android Studio
 .idea/
 .gradle
 gradle/
-**/local.properties
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# built native files
+*.o
+*.so
+
+# generated files
+bin/
+gen/
 **/out
 **/build
 **/production
-*.iml
-*.iws
-*.ipr
-*~
-*.swp
+
+# Local configuration file (sdk path, etc)
+local.properties
+**/local.properties
+
+# Eclipse Metadata
+.metadata/
+
+# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
