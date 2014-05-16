@@ -1,7 +1,7 @@
 InstCollageMaker
 ================
 
-Create collage by top-liked instagram photos and send it to email.
+Creates collage from mostly liked instagram pictutes and sends it to an e-mail.
 
 ## Requirements
  * Android API 19 Platform SDK
