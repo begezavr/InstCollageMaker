@@ -14,7 +14,6 @@ proguard/
 # Android Studio
 .idea/
 .gradle
-gradle/
 
 # built application files
 *.apk
